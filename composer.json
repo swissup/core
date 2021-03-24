@@ -2,9 +2,9 @@
     "name": "swissup/core",
     "description": "Swissup core module. It's purpose is to add menu and config placeholders",
     "type": "metapackage",
-    "version": "1.12.2",
+    "version": "1.12.3",
     "license": "OSL-3.0",
     "require": {
-        "swissup/module-core": "^1.12.2"
+        "swissup/module-core": "^1.12.3"
     }
 }
