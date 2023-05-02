@@ -5,6 +5,6 @@
     "version": "1.12.15",
     "license": "OSL-3.0",
     "require": {
-        "swissup/module-core": "^1.12.14"
+        "swissup/module-core": "^1.12.15"
     }
 }
